@@ -28,7 +28,7 @@ The goal is to demonstrate basic digital input/output control using push-buttons
 This project was simulated and tested using **Tinkercad Circuits**.
 
 ## 📸 Circuit Diagram
-> *(3--leds with 3 buttons A Alrashdi.png)*
+> *([](https://github.com/A-Alrashdi/3-leds-with-3-buttons/blob/main/3--leds%20with%203%20buttons%20A%20Alrashdi.png))*
 
 ---
 
